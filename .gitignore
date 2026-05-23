@@ -1,0 +1,11 @@
+# Metro_Resilience_Project
+
+*.csv
+*.npz
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
+*.png
+*.pdf
+*.zip
+overleaf_poster/
